@@ -168,3 +168,5 @@ trained_model/
 trained_model_DAIGT/
 
 concatenated.csv
+
+spam.csv
